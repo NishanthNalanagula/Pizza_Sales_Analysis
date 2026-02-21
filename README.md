@@ -14,5 +14,8 @@ decisions.
 
 ## Dataset Description
 
+### Dataset Source
+Pizza Sales Dataset (Kaggle)
 
-
+### Tables Used
+- **orders**

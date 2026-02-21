@@ -18,7 +18,7 @@ decisions.
 Pizza Sales Dataset (Kaggle)
 
 ### Dataset Type
-CSV File
+CSV Files
 
 ### Tables Used
 - **[Orders](https://github.com/NishanthNalanagula/Pizza_Sales/blob/main/orders.csv)**
@@ -221,3 +221,31 @@ FROM
 WHERE
     rn <= 3;
 ```
+
+## Key Insights
+
+- Large-size pizzas are the most frequently ordered.
+- Classic category contributes the highest revenue.
+- Afternoon hours (12–1 PM) and Evening hours (4-8 PM) see peak order volume.
+- A small number of pizza types generate a major share of revenue.
+- Revenue grows steadily across the year.
+
+## Business Recommendations
+
+- Promote best-selling pizzas through combo offers.
+- Introduce discounts during low-demand hours.
+- Optimize inventory for high-demand pizza categories.
+- Upsell premium pizzas to increase revenue.
+- Focus marketing efforts on top revenue-generating pizzas.
+- Adjust staffing and operations during peak hours.
+
+## Project Presentation
+
+Project Presentation includes detail explanation of project alonf with outputs to the Business Queries.
+
+Find the Presentation of the Project here :
+### Lets connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NishanthNalanagula)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishanth-nalanagula/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tinkunishanth8@gmail.com)

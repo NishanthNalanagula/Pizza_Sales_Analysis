@@ -241,7 +241,7 @@ WHERE
 
 ## Project Presentation
 
-Project Presentation includes detail explanation of project alonf with outputs to the Business Queries.
+Project Presentation includes detail explanation of project along with the outputs to the Business Queries.
 
 Find the Presentation of the Project here :
 ### Lets connect
